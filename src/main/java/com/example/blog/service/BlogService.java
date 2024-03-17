@@ -1,6 +1,7 @@
 package com.example.blog.service;
 
 import com.example.blog.domain.Article;
+import com.example.blog.domain.Comment;
 import com.example.blog.dto.*;
 import com.example.blog.repository.BlogRepository;
 import org.springframework.stereotype.Service;
